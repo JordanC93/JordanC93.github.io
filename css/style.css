@@ -1,0 +1,60 @@
+.carousel-inner > .item > img{
+margin:auto;
+}
+
+.carousel-caption p {
+font-family:    Garamond;
+font-size:      1.5em;
+max-height: 	60px;
+color:          yellow !important;
+}
+
+.carousel-caption h3 {
+font-family:    Garamond;
+font-size:      2em;
+color:          red !important;
+ font-weight: bold;
+}		
+
+
+body {
+   background-image: url("../assets/jojobackground.png");
+   background-color: #cccccc;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+.center {
+	display:block; 
+	margin-top: 2cm;
+	font-family: Garamond;
+	font-size:2em;
+	color: white !important;
+	font-weight: bold;
+}
+
+.arrest {
+	margin-top: 2cm;
+}
+
+.synop {
+	margin: 2cm;	
+}
+
+.nav-padding {
+	padding: 2cm;
+}
+.logo{
+	max-height: 250px;
+}
+
+.caption{
+	max-width: 2000px;
+	margin-left: 2cm;
+	margin-right: 2cm;
+}
+
+.carousel .item img {
+  max-height: 400px;
+  min-width: auto;
+}

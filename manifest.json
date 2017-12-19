@@ -1,0 +1,16 @@
+{
+  "name": "Jojo's Bizarre Adventure ",
+  "short_name": "JOJO",
+  "description": "Theres an enemy stand nearby",
+  "lang": "en-US",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#00000",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
